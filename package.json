@@ -2,10 +2,10 @@
   "name": "ember-patterns",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for ember-patterns goes here",
-  "repository": "",
+  "description": "A collection of design patterns and code solutions I've found helpful in my experience with Ember.js.",
+  "repository": "github:kmccullough/ember-patterns",
   "license": "MIT",
-  "author": "",
+  "author": "Kerry McCullough <subone@subone.org> (http://subone.org/)",
   "directories": {
     "doc": "doc",
     "test": "tests"
