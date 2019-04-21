@@ -1,6 +1,6 @@
 {
   "name": "ember-patterns",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "description": "A collection of design patterns and code solutions I've found helpful in my experience with Ember.js.",
   "repository": "github:kmccullough/ember-patterns",

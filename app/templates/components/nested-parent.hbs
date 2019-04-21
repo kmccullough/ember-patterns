@@ -1,0 +1,8 @@
+<h3>Nested Parent Component</h3>
+<h4>Child Properties:</h4>
+{{#each this.childProperties as |childProperty|}}
+  <div>{{childProperty}}</div>
+{{/each}}
+<h4>Yielded contents of children:</h4>
+{{yield (component "nested-parent/nested-child" registerNestedComponent=(action
+  "registerNestedComponent"))}}
